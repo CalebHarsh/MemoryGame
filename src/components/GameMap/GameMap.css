@@ -1,0 +1,8 @@
+.game-map {
+  padding: 1rem;
+  background-color: grey;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+  grid-auto-rows: auto;
+}

@@ -1,0 +1,11 @@
+.stats {
+  margin-bottom: 1rem;
+  background-color: blue;
+  padding: .5rem 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+span {
+  margin-right: 1em;
+}
